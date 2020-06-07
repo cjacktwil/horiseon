@@ -7,4 +7,5 @@ A social media marketing agency, it is essential for horiseon's landing page to 
 
 ## Screenshot
 
-![landing page screenshot]{./assets/images/horiseon-screenshot.png)
+![landing page screenshot](./assets/images/horiseon-screenshot.png)
+
