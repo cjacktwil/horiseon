@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# horiseon landing page update
 Updated code to follow accesssibility standards and optimize page for search engines.
 
 ## horiseon
